@@ -1,7 +1,7 @@
 <H3>NAME:HARISHKUMAR R</H3>
 <H3>REG NO:212223230073</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:</H3>
+<H3>DATE:18/10/2024</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
